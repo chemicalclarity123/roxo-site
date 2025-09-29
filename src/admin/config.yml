@@ -1,6 +1,9 @@
 backend:
-  name: test-repo   # placeholder backend for local dev
+  name: github
+  repo: chemicalclarity123/roxo-site
+  branch: main
 media_folder: "src/images/uploads"
+public_folder: "/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
